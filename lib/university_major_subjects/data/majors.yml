@@ -1,0 +1,383 @@
+---
+- :major_category: Agriculture & Natural Resources
+  :majors:
+  - :major: AGRICULTURAL ECONOMICS
+    :major_category: Agriculture & Natural Resources
+  - :major: AGRICULTURE PRODUCTION AND MANAGEMENT
+    :major_category: Agriculture & Natural Resources
+  - :major: ANIMAL SCIENCES
+    :major_category: Agriculture & Natural Resources
+  - :major: FOOD SCIENCE
+    :major_category: Agriculture & Natural Resources
+  - :major: FORESTRY
+    :major_category: Agriculture & Natural Resources
+  - :major: GENERAL AGRICULTURE
+    :major_category: Agriculture & Natural Resources
+  - :major: MISCELLANEOUS AGRICULTURE
+    :major_category: Agriculture & Natural Resources
+  - :major: NATURAL RESOURCES MANAGEMENT
+    :major_category: Agriculture & Natural Resources
+  - :major: PLANT SCIENCE AND AGRONOMY
+    :major_category: Agriculture & Natural Resources
+  - :major: SOIL SCIENCE
+    :major_category: Agriculture & Natural Resources
+- :major_category: Arts
+  :majors:
+  - :major: COMMERCIAL ART AND GRAPHIC DESIGN
+    :major_category: Arts
+  - :major: DRAMA AND THEATER ARTS
+    :major_category: Arts
+  - :major: FILM VIDEO AND PHOTOGRAPHIC ARTS
+    :major_category: Arts
+  - :major: FINE ARTS
+    :major_category: Arts
+  - :major: MISCELLANEOUS FINE ARTS
+    :major_category: Arts
+  - :major: MUSIC
+    :major_category: Arts
+  - :major: STUDIO ARTS
+    :major_category: Arts
+  - :major: VISUAL AND PERFORMING ARTS
+    :major_category: Arts
+- :major_category: Biology & Life Science
+  :majors:
+  - :major: BIOCHEMICAL SCIENCES
+    :major_category: Biology & Life Science
+  - :major: BIOLOGY
+    :major_category: Biology & Life Science
+  - :major: BOTANY
+    :major_category: Biology & Life Science
+  - :major: COGNITIVE SCIENCE AND BIOPSYCHOLOGY
+    :major_category: Biology & Life Science
+  - :major: ECOLOGY
+    :major_category: Biology & Life Science
+  - :major: ENVIRONMENTAL SCIENCE
+    :major_category: Biology & Life Science
+  - :major: GENETICS
+    :major_category: Biology & Life Science
+  - :major: MICROBIOLOGY
+    :major_category: Biology & Life Science
+  - :major: MISCELLANEOUS BIOLOGY
+    :major_category: Biology & Life Science
+  - :major: MOLECULAR BIOLOGY
+    :major_category: Biology & Life Science
+  - :major: NEUROSCIENCE
+    :major_category: Biology & Life Science
+  - :major: PHARMACOLOGY
+    :major_category: Biology & Life Science
+  - :major: PHYSIOLOGY
+    :major_category: Biology & Life Science
+  - :major: ZOOLOGY
+    :major_category: Biology & Life Science
+- :major_category: Business
+  :majors:
+  - :major: ACCOUNTING
+    :major_category: Business
+  - :major: ACTUARIAL SCIENCE
+    :major_category: Business
+  - :major: BUSINESS ECONOMICS
+    :major_category: Business
+  - :major: BUSINESS MANAGEMENT AND ADMINISTRATION
+    :major_category: Business
+  - :major: FINANCE
+    :major_category: Business
+  - :major: GENERAL BUSINESS
+    :major_category: Business
+  - :major: HOSPITALITY MANAGEMENT
+    :major_category: Business
+  - :major: HUMAN RESOURCES AND PERSONNEL MANAGEMENT
+    :major_category: Business
+  - :major: INTERNATIONAL BUSINESS
+    :major_category: Business
+  - :major: MANAGEMENT INFORMATION SYSTEMS AND STATISTICS
+    :major_category: Business
+  - :major: MARKETING AND MARKETING RESEARCH
+    :major_category: Business
+  - :major: MISCELLANEOUS BUSINESS & MEDICAL ADMINISTRATION
+    :major_category: Business
+  - :major: OPERATIONS LOGISTICS AND E-COMMERCE
+    :major_category: Business
+- :major_category: Communications & Journalism
+  :majors:
+  - :major: ADVERTISING AND PUBLIC RELATIONS
+    :major_category: Communications & Journalism
+  - :major: COMMUNICATIONS
+    :major_category: Communications & Journalism
+  - :major: JOURNALISM
+    :major_category: Communications & Journalism
+  - :major: MASS MEDIA
+    :major_category: Communications & Journalism
+- :major_category: Computers & Mathematics
+  :majors:
+  - :major: APPLIED MATHEMATICS
+    :major_category: Computers & Mathematics
+  - :major: COMMUNICATION TECHNOLOGIES
+    :major_category: Computers & Mathematics
+  - :major: COMPUTER ADMINISTRATION MANAGEMENT AND SECURITY
+    :major_category: Computers & Mathematics
+  - :major: COMPUTER AND INFORMATION SYSTEMS
+    :major_category: Computers & Mathematics
+  - :major: COMPUTER NETWORKING AND TELECOMMUNICATIONS
+    :major_category: Computers & Mathematics
+  - :major: COMPUTER PROGRAMMING AND DATA PROCESSING
+    :major_category: Computers & Mathematics
+  - :major: COMPUTER SCIENCE
+    :major_category: Computers & Mathematics
+  - :major: INFORMATION SCIENCES
+    :major_category: Computers & Mathematics
+  - :major: MATHEMATICS
+    :major_category: Computers & Mathematics
+  - :major: MATHEMATICS AND COMPUTER SCIENCE
+    :major_category: Computers & Mathematics
+  - :major: STATISTICS AND DECISION SCIENCE
+    :major_category: Computers & Mathematics
+- :major_category: Education
+  :majors:
+  - :major: ART AND MUSIC EDUCATION
+    :major_category: Education
+  - :major: EARLY CHILDHOOD EDUCATION
+    :major_category: Education
+  - :major: EDUCATIONAL ADMINISTRATION AND SUPERVISION
+    :major_category: Education
+  - :major: ELEMENTARY EDUCATION
+    :major_category: Education
+  - :major: GENERAL EDUCATION
+    :major_category: Education
+  - :major: LANGUAGE AND DRAMA EDUCATION
+    :major_category: Education
+  - :major: LIBRARY SCIENCE
+    :major_category: Education
+  - :major: MATHEMATICS TEACHER EDUCATION
+    :major_category: Education
+  - :major: MISCELLANEOUS EDUCATION
+    :major_category: Education
+  - :major: PHYSICAL AND HEALTH EDUCATION TEACHING
+    :major_category: Education
+  - :major: SCHOOL STUDENT COUNSELING
+    :major_category: Education
+  - :major: SCIENCE AND COMPUTER TEACHER EDUCATION
+    :major_category: Education
+  - :major: SECONDARY TEACHER EDUCATION
+    :major_category: Education
+  - :major: SOCIAL SCIENCE OR HISTORY TEACHER EDUCATION
+    :major_category: Education
+  - :major: SPECIAL NEEDS EDUCATION
+    :major_category: Education
+  - :major: 'TEACHER EDUCATION: MULTIPLE LEVELS'
+    :major_category: Education
+- :major_category: Engineering
+  :majors:
+  - :major: AEROSPACE ENGINEERING
+    :major_category: Engineering
+  - :major: ARCHITECTURAL ENGINEERING
+    :major_category: Engineering
+  - :major: ARCHITECTURE
+    :major_category: Engineering
+  - :major: BIOLOGICAL ENGINEERING
+    :major_category: Engineering
+  - :major: BIOMEDICAL ENGINEERING
+    :major_category: Engineering
+  - :major: CHEMICAL ENGINEERING
+    :major_category: Engineering
+  - :major: CIVIL ENGINEERING
+    :major_category: Engineering
+  - :major: COMPUTER ENGINEERING
+    :major_category: Engineering
+  - :major: ELECTRICAL ENGINEERING
+    :major_category: Engineering
+  - :major: ELECTRICAL ENGINEERING TECHNOLOGY
+    :major_category: Engineering
+  - :major: ENGINEERING AND INDUSTRIAL MANAGEMENT
+    :major_category: Engineering
+  - :major: ENGINEERING MECHANICS PHYSICS AND SCIENCE
+    :major_category: Engineering
+  - :major: ENGINEERING TECHNOLOGIES
+    :major_category: Engineering
+  - :major: ENVIRONMENTAL ENGINEERING
+    :major_category: Engineering
+  - :major: GENERAL ENGINEERING
+    :major_category: Engineering
+  - :major: GEOLOGICAL AND GEOPHYSICAL ENGINEERING
+    :major_category: Engineering
+  - :major: INDUSTRIAL AND MANUFACTURING ENGINEERING
+    :major_category: Engineering
+  - :major: INDUSTRIAL PRODUCTION TECHNOLOGIES
+    :major_category: Engineering
+  - :major: MATERIALS ENGINEERING AND MATERIALS SCIENCE
+    :major_category: Engineering
+  - :major: MATERIALS SCIENCE
+    :major_category: Engineering
+  - :major: MECHANICAL ENGINEERING
+    :major_category: Engineering
+  - :major: MECHANICAL ENGINEERING RELATED TECHNOLOGIES
+    :major_category: Engineering
+  - :major: METALLURGICAL ENGINEERING
+    :major_category: Engineering
+  - :major: MINING AND MINERAL ENGINEERING
+    :major_category: Engineering
+  - :major: MISCELLANEOUS ENGINEERING
+    :major_category: Engineering
+  - :major: MISCELLANEOUS ENGINEERING TECHNOLOGIES
+    :major_category: Engineering
+  - :major: NAVAL ARCHITECTURE AND MARINE ENGINEERING
+    :major_category: Engineering
+  - :major: NUCLEAR ENGINEERING
+    :major_category: Engineering
+  - :major: PETROLEUM ENGINEERING
+    :major_category: Engineering
+- :major_category: Health
+  :majors:
+  - :major: COMMUNICATION DISORDERS SCIENCES AND SERVICES
+    :major_category: Health
+  - :major: COMMUNITY AND PUBLIC HEALTH
+    :major_category: Health
+  - :major: GENERAL MEDICAL AND HEALTH SERVICES
+    :major_category: Health
+  - :major: HEALTH AND MEDICAL ADMINISTRATIVE SERVICES
+    :major_category: Health
+  - :major: HEALTH AND MEDICAL PREPARATORY PROGRAMS
+    :major_category: Health
+  - :major: MEDICAL ASSISTING SERVICES
+    :major_category: Health
+  - :major: MEDICAL TECHNOLOGIES TECHNICIANS
+    :major_category: Health
+  - :major: MISCELLANEOUS HEALTH MEDICAL PROFESSIONS
+    :major_category: Health
+  - :major: NURSING
+    :major_category: Health
+  - :major: NUTRITION SCIENCES
+    :major_category: Health
+  - :major: PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION
+    :major_category: Health
+  - :major: TREATMENT THERAPY PROFESSIONS
+    :major_category: Health
+- :major_category: Humanities & Liberal Arts
+  :majors:
+  - :major: ANTHROPOLOGY AND ARCHEOLOGY
+    :major_category: Humanities & Liberal Arts
+  - :major: AREA ETHNIC AND CIVILIZATION STUDIES
+    :major_category: Humanities & Liberal Arts
+  - :major: ART HISTORY AND CRITICISM
+    :major_category: Humanities & Liberal Arts
+  - :major: COMPOSITION AND RHETORIC
+    :major_category: Humanities & Liberal Arts
+  - :major: ENGLISH LANGUAGE AND LITERATURE
+    :major_category: Humanities & Liberal Arts
+  - :major: FRENCH GERMAN LATIN AND OTHER COMMON FOREIGN LANGUAGE STUDIES
+    :major_category: Humanities & Liberal Arts
+  - :major: HISTORY
+    :major_category: Humanities & Liberal Arts
+  - :major: HUMANITIES
+    :major_category: Humanities & Liberal Arts
+  - :major: INTERCULTURAL AND INTERNATIONAL STUDIES
+    :major_category: Humanities & Liberal Arts
+  - :major: LIBERAL ARTS
+    :major_category: Humanities & Liberal Arts
+  - :major: LINGUISTICS AND COMPARATIVE LANGUAGE AND LITERATURE
+    :major_category: Humanities & Liberal Arts
+  - :major: OTHER FOREIGN LANGUAGES
+    :major_category: Humanities & Liberal Arts
+  - :major: PHILOSOPHY AND RELIGIOUS STUDIES
+    :major_category: Humanities & Liberal Arts
+  - :major: THEOLOGY AND RELIGIOUS VOCATIONS
+    :major_category: Humanities & Liberal Arts
+  - :major: UNITED STATES HISTORY
+    :major_category: Humanities & Liberal Arts
+- :major_category: Industrial Arts & Consumer Services
+  :majors:
+  - :major: CONSTRUCTION SERVICES
+    :major_category: Industrial Arts & Consumer Services
+  - :major: COSMETOLOGY SERVICES AND CULINARY ARTS
+    :major_category: Industrial Arts & Consumer Services
+  - :major: ELECTRICAL, MECHANICAL, AND PRECISION TECHNOLOGIES AND PRODUCTION
+    :major_category: Industrial Arts & Consumer Services
+  - :major: FAMILY AND CONSUMER SCIENCES
+    :major_category: Industrial Arts & Consumer Services
+  - :major: MILITARY TECHNOLOGIES
+    :major_category: Industrial Arts & Consumer Services
+  - :major: PHYSICAL FITNESS PARKS RECREATION AND LEISURE
+    :major_category: Industrial Arts & Consumer Services
+  - :major: TRANSPORTATION SCIENCES AND TECHNOLOGIES
+    :major_category: Industrial Arts & Consumer Services
+- :major_category: Interdisciplinary
+  :majors:
+  - :major: MULTI/INTERDISCIPLINARY STUDIES
+    :major_category: Interdisciplinary
+- :major_category: Law & Public Policy
+  :majors:
+  - :major: COURT REPORTING
+    :major_category: Law & Public Policy
+  - :major: CRIMINAL JUSTICE AND FIRE PROTECTION
+    :major_category: Law & Public Policy
+  - :major: PRE-LAW AND LEGAL STUDIES
+    :major_category: Law & Public Policy
+  - :major: PUBLIC ADMINISTRATION
+    :major_category: Law & Public Policy
+  - :major: PUBLIC POLICY
+    :major_category: Law & Public Policy
+- :major_category: NA
+  :majors:
+  - :major: N/A (less than bachelor's degree)
+    :major_category: NA
+- :major_category: Physical Sciences
+  :majors:
+  - :major: ASTRONOMY AND ASTROPHYSICS
+    :major_category: Physical Sciences
+  - :major: ATMOSPHERIC SCIENCES AND METEOROLOGY
+    :major_category: Physical Sciences
+  - :major: CHEMISTRY
+    :major_category: Physical Sciences
+  - :major: GEOLOGY AND EARTH SCIENCE
+    :major_category: Physical Sciences
+  - :major: GEOSCIENCES
+    :major_category: Physical Sciences
+  - :major: MULTI-DISCIPLINARY OR GENERAL SCIENCE
+    :major_category: Physical Sciences
+  - :major: NUCLEAR, INDUSTRIAL RADIOLOGY, AND BIOLOGICAL TECHNOLOGIES
+    :major_category: Physical Sciences
+  - :major: OCEANOGRAPHY
+    :major_category: Physical Sciences
+  - :major: PHYSICAL SCIENCES
+    :major_category: Physical Sciences
+  - :major: PHYSICS
+    :major_category: Physical Sciences
+- :major_category: Psychology & Social Work
+  :majors:
+  - :major: CLINICAL PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: COUNSELING PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: EDUCATIONAL PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: HUMAN SERVICES AND COMMUNITY ORGANIZATION
+    :major_category: Psychology & Social Work
+  - :major: INDUSTRIAL AND ORGANIZATIONAL PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: MISCELLANEOUS PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: SOCIAL PSYCHOLOGY
+    :major_category: Psychology & Social Work
+  - :major: SOCIAL WORK
+    :major_category: Psychology & Social Work
+- :major_category: Social Science
+  :majors:
+  - :major: CRIMINOLOGY
+    :major_category: Social Science
+  - :major: ECONOMICS
+    :major_category: Social Science
+  - :major: GENERAL SOCIAL SCIENCES
+    :major_category: Social Science
+  - :major: GEOGRAPHY
+    :major_category: Social Science
+  - :major: INTERDISCIPLINARY SOCIAL SCIENCES
+    :major_category: Social Science
+  - :major: INTERNATIONAL RELATIONS
+    :major_category: Social Science
+  - :major: MISCELLANEOUS SOCIAL SCIENCES
+    :major_category: Social Science
+  - :major: POLITICAL SCIENCE AND GOVERNMENT
+    :major_category: Social Science
+  - :major: SOCIOLOGY
+    :major_category: Social Science
