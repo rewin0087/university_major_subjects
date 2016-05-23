@@ -305,6 +305,8 @@
     :major_category: Interdisciplinary
 - :major_category: Law & Public Policy
   :majors:
+  - :major: Law
+    :major_category: Law
   - :major: COURT REPORTING
     :major_category: Law & Public Policy
   - :major: CRIMINAL JUSTICE AND FIRE PROTECTION
