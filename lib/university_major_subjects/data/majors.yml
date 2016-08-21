@@ -97,6 +97,18 @@
     :major_category: Business
   - :major: OPERATIONS LOGISTICS AND E-COMMERCE
     :major_category: Business
+  - :major: ECONOMIC DEVELOPMENT
+    :major_category: Business
+  - :major: POLITICAL ECONOMY
+    :major_category: Business
+  - :major: ENTREPRENEURSHIP
+    :major_category: Business
+  - :major: STRATEGY
+    :major_category: Business
+  - :major: INNOVATION
+    :major_category: Business
+  - :major: ANALYTICS
+    :major_category: Business
 - :major_category: Communications & Journalism
   :majors:
   - :major: ADVERTISING AND PUBLIC RELATIONS
@@ -225,6 +237,8 @@
     :major_category: Engineering
   - :major: PETROLEUM ENGINEERING
     :major_category: Engineering
+  - :major: AEROAUTICAL ENGINEERING
+    :major_category: Engineering
 - :major_category: Health
   :majors:
   - :major: COMMUNICATION DISORDERS SCIENCES AND SERVICES
@@ -250,6 +264,8 @@
   - :major: PHARMACY PHARMACEUTICAL SCIENCES AND ADMINISTRATION
     :major_category: Health
   - :major: TREATMENT THERAPY PROFESSIONS
+    :major_category: Health
+  - :major: MEDICINE
     :major_category: Health
 - :major_category: Humanities & Liberal Arts
   :majors:
@@ -383,3 +399,31 @@
     :major_category: Social Science
   - :major: SOCIOLOGY
     :major_category: Social Science
+  - :major: INTERNATIONAL AFFAIRS
+    :major_category: Social Science
+- :major_category: Development
+  :majors:
+  - :major: DEVELOPMENT
+    :major_category: Development
+  - :major: SUSTAINABLE DEVELOPMENT
+    :major_category: Development
+  - :major: SUSTAINABILITY
+    :major_category: Development
+  - :major: TECHNOLOGY MANAGEMENT
+    :major_category: Development
+  - :major: ROBOTICS
+    :major_category: Development
+- :major_category: UNKNOWN
+  :majors:
+  - :major: NONE
+    :major_category: UNKNOWN
+  - :major: NOT APPLICABLE
+    :major_category: UNKNOWN
+  - :major: UNDECLARED
+    :major_category: UNKNOWN
+
+
+
+
+
+

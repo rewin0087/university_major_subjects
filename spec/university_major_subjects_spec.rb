@@ -11,21 +11,21 @@ describe UniversityMajorSubjects do
     expect(UniversityMajorSubjects::RAW).not_to be_nil
     expect(UniversityMajorSubjects::RAW).not_to be_empty
     expect(UniversityMajorSubjects::RAW).to be_a Array
-    expect(UniversityMajorSubjects::RAW.size).to eql(17)
+    expect(UniversityMajorSubjects::RAW.size).to eql(19)
   end
 
   it '::MAJOR_CATEGORIES' do
     expect(UniversityMajorSubjects::MAJOR_CATEGORIES).not_to be_nil
     expect(UniversityMajorSubjects::MAJOR_CATEGORIES).not_to be_empty
     expect(UniversityMajorSubjects::MAJOR_CATEGORIES).to be_a Array
-    expect(UniversityMajorSubjects::MAJOR_CATEGORIES.size).to eql(17)
+    expect(UniversityMajorSubjects::MAJOR_CATEGORIES.size).to eql(19)
   end
 
   it '::MAJORS' do
     expect(UniversityMajorSubjects::MAJORS).not_to be_nil
     expect(UniversityMajorSubjects::MAJORS).not_to be_empty
     expect(UniversityMajorSubjects::MAJORS).to be_a Array
-    expect(UniversityMajorSubjects::MAJORS.size).to eql(174)
+    expect(UniversityMajorSubjects::MAJORS.size).to eql(192)
   end
 
   context '#find_by_category' do
@@ -40,7 +40,7 @@ describe UniversityMajorSubjects do
       expect(UniversityMajorSubjects.find_by_category('Business')).not_to be_nil
       expect(UniversityMajorSubjects.find_by_category('Business')).not_to be_empty
       expect(UniversityMajorSubjects.find_by_category('Business')).to be_a Array
-      expect(UniversityMajorSubjects.find_by_category('Business').size).to eql(13)
+      expect(UniversityMajorSubjects.find_by_category('Business').size).to eql(19)
     end
 
     it 'Education' do
